@@ -1,8 +1,8 @@
 {
-  "name": "google-spreadsheet-nodejs",
+  "name": "google-spreadsheet-node",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/pedroapfilho/google-spreadsheet-nodejs.git",
+  "repository": "https://github.com/pedroapfilho/google-spreadsheet-node.git",
   "author": "Pedro Filho <pedro@filho.me>",
   "license": "MIT",
   "dependencies": {
