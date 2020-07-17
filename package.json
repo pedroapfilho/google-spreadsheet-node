@@ -6,6 +6,6 @@
   "author": "Pedro Filho <pedro@filho.me>",
   "license": "MIT",
   "dependencies": {
-    "google-spreadsheet": "^2.0.7"
+    "google-spreadsheet": "^3.0.11"
   }
 }
